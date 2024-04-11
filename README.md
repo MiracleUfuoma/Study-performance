@@ -27,3 +27,6 @@ To reproduce the analysis or explore the dataset further, follow these steps:
 
 Access the SQL database containing the dataset.
 Execute the SQL scripts provided in the sql_analysis directory. These scripts contain SQL queries for performing various analyses on the dataset.
+
+[study performace.pdf](https://github.com/MiracleUfuoma/Study-performance/files/14951102/study.performace.pdf)
+
