@@ -1,4 +1,4 @@
-# Study-performance
+# Study-performance analysis on SQL
 Welcome to the README file for the study performance dataset SQL analysis project. This repository contains SQL scripts and documentation for analyzing a dataset related to study performance metrics.
 
 Overview
