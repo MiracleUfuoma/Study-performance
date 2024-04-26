@@ -31,6 +31,11 @@ To reproduce the analysis or explore the dataset further, follow these steps:
 Access the SQL database containing the dataset.
 Execute the SQL scripts provided in the sql_analysis directory. These scripts contain SQL queries for performing various analyses on the dataset.
 
+## Tools and technologies used
+
+## Database Management System (DBMS)
+Microsoft SQL server: Microsoft SQL server is an open-source relational database management system widely used for managing large databases. It provides robust features for storing, querying, and manipulating data, making it suitable for this analysis.
+
 ## Conclusion
 Analyzing student study performance using SQL provides valuable insights that can be used to enhance teaching strategies, student support programs, and overall educational outcomes. By leveraging data-driven insights, educators and administrators can make informed decisions to improve student success and engagement.
 
